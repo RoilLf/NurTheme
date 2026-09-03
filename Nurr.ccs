@@ -1,6 +1,6 @@
 {
 "name": "Murder drones",
-"description": "murder drones uzi and N gif theme",
+"description": "murder drones Cyn theme",
 "version": "1.1",
 "authors": [
 {
@@ -272,7 +272,7 @@
 },
 "spec": 2,
 "background": {
-"url": "https://cdn.discordapp.com/attachments/1533014075842232433/1545128274168914030/jrvcxvsco1nd1.gif?ex=6a9b0457&is=6a99b2d7&hm=bf9e8579dbc34b23d501917b245c0ec69a7ca6f1510989b126885584f6ba7041&",
+"url": "https://cdn.discordapp.com/attachments/1533014075842232433/1545130211845345370/wp14813671.webp?ex=6a9b0625&is=6a99b4a5&hm=8f84957c7575d65a76178f6a4f17539709a4cade9d788220e00d1d8f95de8b06&",
 "alpha": 0.5,
 "blur": 0.75
 }
